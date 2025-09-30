@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello! 👋 I'm DongHun Lee
 
-<!--
-**donghunl33/donghunl33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Student in Mechanical Engineering, UC Berkeley**  
+🤖 Passionate about **Robotics, Reinforcement Learning, and Control Systems**  
+💻 Experienced with **Python, PyTorch, JAX, ROS2**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research & Interests
+- 🌱 Reinforcement learning for **legged robot locomotion**
+- ⚙️ Control algorithms for **autonomous systems**
+- 🧠 High-level decision making in robotics
+
+---
+
+## 📂 Projects
+- 📁 [project_COVA](https://github.com/donghunl33/project_COVA) – (여기에 프로젝트 간단 설명)  
+- 📁 [project_COVA2](https://github.com/donghunl33/project_COVA2) – (여기에 프로젝트 간단 설명)  
+- 📁 [project_ARCS](https://github.com/donghunl33/project_ARCS) – (여기에 프로젝트 간단 설명)
+
+---
+
+## 📫 Contact
+- ✉️ Email: dong_hun_lee@berkeley.edu  
+- 🌐 [Personal Website](https://yourpage.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/donghunl33)
+
+---
+
+## ⚡ Fun fact
+I love playing and watching soccer ⚽, and I enjoy watching movies 🎬
