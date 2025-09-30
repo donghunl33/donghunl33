@@ -7,7 +7,7 @@
 ---
 
 ## 🔬 Research & Interests
-- 🌱 Reinforcement learning for **legged robot locomotion**
+- 🌱 Reinforcement learning for **quadruped robot locomotion**
 - ⚙️ Control algorithms for **autonomous systems**
 - 🧠 High-level decision making in robotics
 
